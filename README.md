@@ -4,6 +4,7 @@ CS master's at Stanford; previously Data Theory & Cognitive Science at UCLA.
 
 ### Projects
 
+- **[causal-agent-benchmark](https://github.com/Ruichu-Xia/causal-agent-benchmark)** — RL environment and benchmark for training LLM agents to do causal analysis on data.
 - **[flow-mri](https://github.com/Ruichu-Xia/flow-mri)** — Flow matching for counterfactual longitudinal brain MRI generation.
 - **[countdown-post-training](https://github.com/Ruichu-Xia/countdown-post-training)** — Post-training a small LLM for arithmetic reasoning.
 - **[minigrid-with-curiosity](https://github.com/Ruichu-Xia/minigrid-with-curiosity)** — Curiosity-driven exploration for sparse-reward RL.
