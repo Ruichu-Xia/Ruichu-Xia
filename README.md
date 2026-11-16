@@ -4,6 +4,7 @@ CS master's at Stanford; previously Data Theory & Cognitive Science at UCLA.
 
 ### Projects
 
+- **[Simons](https://github.com/Abel-ai-lab/Simons)** — Open time series foundation models for zero-shot forecasting.
 - **[causal-agent-benchmark](https://github.com/Ruichu-Xia/causal-agent-benchmark)** — RL environment and benchmark for training LLM agents to do causal analysis.
 - **[fenformer](https://github.com/Ruichu-Xia/fenformer)** — 3D chess board image to FEN.
 - **[flow-mri](https://github.com/Ruichu-Xia/flow-mri)** — Flow matching for counterfactual longitudinal brain MRI generation.
